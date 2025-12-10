@@ -44,21 +44,21 @@ considered.
 
 ## Proposed Repository Structure (2026)
 /docs
-    TetraKlein_UnitedArchitecture.pdf        # 1,600+ page public technical monograph
-    TK-AIR/                                  # All AIR tables (TK--U ... TK--Z)
-    TK-Math/                                 # XR, DTC, routing, ledger, recursion math
-    TK-VM/                                   # Execution model, gas-degree rules, opcode tables
-    TK-Licensing/                            # Licensing files and notices
-    TK-Original-Paper/                       # Archival 2025 manuscript (unchanged)
+TetraKlein_UnitedArchitecture.pdf        # 1,600+ page public technical monograph
+TK-AIR/                                  # All AIR tables (TK--U ... TK--Z)
+TK-Math/                                 # XR, DTC, routing, ledger, recursion math
+TK-VM/                                   # Execution model, gas-degree rules, opcode tables
+TK-Licensing/                            # Licensing files and notices
+TK-Original-Paper/                       # Archival 2025 manuscript (unchanged)
 
  /ref
-    examples/                                # Minimal examples for TK-VM, sponge, routing
-    proving/                                 # zk test artifacts (SP1, RISC Zero)
-    dtc/                                     # Digital twin convergence reference models
-    xr/                                      # XR physics kernel examples (non-proprietary)
+examples/                                # Minimal examples for TK-VM, sponge, routing
+proving/                                 # zk test artifacts (SP1, RISC Zero)
+dtc/                                     # Digital twin convergence reference models
+xr/                                      # XR physics kernel examples (non-proprietary)
 
- /src
-    (optional: placeholder for future open-source reference implementations)
+/src
+(optional: placeholder for future open-source reference implementations)
 
  LICENSE                                      # CC-BY-4.0 + MIT/Apache-2.0 split
  README.md                                    # This file
