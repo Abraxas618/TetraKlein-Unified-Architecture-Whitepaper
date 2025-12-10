@@ -9,6 +9,7 @@
 > ## 📘 Full Whitepaper  
 > The complete TetraKlein: A Unified Architecture is available here:  
 > [![Read the Full TetraKlein Whitepaper](https://img.shields.io/badge/Whitepaper-Read%20Now-blue?style=for-the-badge)](docs/TetraKlein_UnitedArchitecture.pdf)
+
 > This document contains the full technical specification, AIR tables, VM design,
 > and XR–DTC–Ledger pipeline integration.
 
